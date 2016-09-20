@@ -3,5 +3,5 @@
 $servidor = 'localhost';
 $bd = 'histologia';
 $usuario_mysql = 'root';
-$clave_mysql = '';
+$clave_mysql = 'root';
 
