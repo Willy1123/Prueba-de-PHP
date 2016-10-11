@@ -1,5 +1,4 @@
 <?php
-
     include ('misfunciones.php');
     $mysqli = conectaBBDD();
     
